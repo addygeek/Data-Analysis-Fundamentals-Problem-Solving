@@ -11,6 +11,7 @@ Welcome to the **Data Analysis Fundamentals & Problem Solving** repository! This
    - [Assignment 3: List-Tuple-Dictionary Based Python Data Driven Module](#assignment-3-list-tuple-dictionary-based-python-data-driven-module)
    - [Assignment 4: Earthquake Data Analysis](#assignment-4-earthquake-data-analysis)
    - [Assignment 5: Menu Based Jupyter Notebook](#assignment-5-menu-based-jupyter-notebook)
+   - [Assignmnet 6: FLipkart Web scrapper]
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Dependencies](#dependencies)
